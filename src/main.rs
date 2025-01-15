@@ -3,5 +3,5 @@ mod tui;
 mod util;
 
 fn main() {
-    println!("Hello, world!");
+	println!("Hello, world!");
 }
